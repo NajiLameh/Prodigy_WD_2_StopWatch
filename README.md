@@ -7,6 +7,7 @@ This project is a simple stopwatch application that includes functionalities for
 Follow these steps to set up and run the stopwatch project on your local machine:
 
 1. **Create a new directory** on your computer.
+   
 2. **Navigate to your directory** using the terminal:
    ```bash
    cd [path-to-your-directory]
@@ -23,7 +24,7 @@ Follow these steps to set up and run the stopwatch project on your local machine
    ```bash
    npm install
    ```
-6. **Start the project**:
+7. **Start the project**:
    ```bash
    npm start
    ```
